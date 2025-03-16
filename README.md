@@ -4,7 +4,7 @@ Welcome to the ZerosAi project! This is a brief overview of what the project is 
 
 Description:
  
-ZerosAi is an AI-driven application designed to engage users in natural, conversational interactions and assist with basic tasks such as solving math expressions. The goal of this project is to create an adaptive conversational agent capable of maintaining context, learning from user interactions, and providing helpful, context-aware responses.
+ZerosAi is an AI-driven application designed to engage users in natural, conversational interactions. The goal of this project is to create an adaptive conversational agent capable of maintaining context, learning from user interactions, and providing helpful, context-aware responses
 
 Features
 Feature 1: Interactive Chat Interface 
@@ -14,7 +14,7 @@ Feature 4: Uses DialoGPT-medium
 
 Requirements: 
 
-Python 3.x
+Python 3.8 or higher
 pip 25.0.1
 torch 2.6.0
 transformers 4.49.0
