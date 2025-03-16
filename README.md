@@ -2,7 +2,8 @@ ZerosAi
 
 Welcome to the ZerosAi project! This is a brief overview of what the project is about and what is needed
 
-Description
+Description:
+
 ZerosAi is an AI-driven application designed to engage users in natural, conversational interactions and assist with basic tasks such as solving math expressions. The goal of this project is to create an adaptive conversational agent capable of maintaining context, learning from user interactions, and providing helpful, context-aware responses.
 
 Features
