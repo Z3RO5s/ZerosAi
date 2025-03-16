@@ -14,7 +14,10 @@ Feature 4: Uses DialoGPT-medium
 
 Requirements: 
 
-Python 3.8 or higher
+Python 3.8 or higher 
+
 pip 25.0.1
+
 torch 2.6.0
+
 transformers 4.49.0
